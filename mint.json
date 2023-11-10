@@ -8,11 +8,11 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "light": "#57b8ff",
+    "dark": "#3c80b2",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#3c80b2",
+      "to": "#2a5b7e"
     }
   },
   "topbarLinks": [
@@ -51,15 +51,27 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": [
+        "introduction",
+        "quickstart",
+        "development"
+      ]
     },
     {
       "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+      "pages": [
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/settings",
+        "essentials/navigation"
+      ]
     },
     {
       "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
+      "pages": [
+        "api-reference/introduction"
+      ]
     },
     {
       "group": "Endpoint Examples",
